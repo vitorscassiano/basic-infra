@@ -9,7 +9,7 @@ The terraform environment must be initialized:
 > terraform init
 ```
 
-Setting up your variables in `variables.tf` and use the foloowing command to deploy:
+Setting up your variables in `variables.tf` and use the following command to deploy:
 ```
 > terraform plan
 > terraform apply
